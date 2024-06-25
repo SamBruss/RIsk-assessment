@@ -1,4 +1,4 @@
-This Script allows for data visualisation in Cytoscape using transcriptomics data
+This Script allows for data visualisation in Cytoscape using transcriptomics data.
 In order to make the scpript work :
   1. set in your current R directory a Final_Data file with the all the dataset
   2. set in your current R directory a Linkset file with the linkset needed for the cytoscape extension
